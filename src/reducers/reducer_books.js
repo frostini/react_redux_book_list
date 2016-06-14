@@ -1,8 +1,8 @@
 export default function() {
 	return [
-		{title: 'Javascript book'},
-		{title: 'Other book'},
-		{title: 'Maximilians Monologue'},
-		{title: 'Light Path'}
+		{title: 'Javascript book', pages: 56},
+		{title: 'Other book', pages: 65},
+		{title: 'Maximilians Monologue', pages:874},
+		{title: 'Light Path', pages:1234}
 	]
 }
